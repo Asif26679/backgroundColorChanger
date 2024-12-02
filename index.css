@@ -1,0 +1,26 @@
+*{
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.button{
+    width: 500px;
+    height: 500px;
+    padding: 20px;
+    border: 2px solid black;
+}
+#blue{
+    background-color: blue;
+}
+#pink{
+    background-color: pink;
+}
+#green{
+    background-color: green;
+}
+#white{
+    background-color: white;
+}
+.button:hover{
+    cursor: pointer;
+}
